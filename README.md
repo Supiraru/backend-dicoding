@@ -1,2 +1,2 @@
 # backend-dicoding
-this repository is to safe my work for dicoding backend course
+this repository is to save my work for dicoding backend course
